@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋. I am Ashutosh 
+
+
+
+🔭 I’m currently working on Deep Learning and NLP. 
+
+🌱 I’m currently learning ML | DL | NLP | AWS | POWER BI. 
+
+👯 I’m looking to collaborate on NLP. 
+
 
 <!--
 **ashuiitp/ashuiitp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
