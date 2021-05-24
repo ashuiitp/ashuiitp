@@ -1,4 +1,4 @@
-![Untitled](https://user-images.githubusercontent.com/70529796/119293671-8a71b980-bc70-11eb-8dad-227e9f22081a.png)
+
 
 # Hi there 👋. I am Ashutosh 
 
