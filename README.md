@@ -4,6 +4,11 @@
 
 
 
+    
+
+
+
+
 🔭 I’m currently working on Deep Learning and NLP. 
 
 🌱 I’m currently learning ML | DL | NLP | AWS | POWER BI. 
